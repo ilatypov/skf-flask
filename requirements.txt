@@ -1,5 +1,5 @@
 https://github.com/mitsuhiko/flask/tarball/master#egg=flask
-lxml==3.4.2
+lxml==4.6.2
 markdown==2.6.2
 cryptography
 pyOpenSSL
